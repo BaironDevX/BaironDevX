@@ -8,6 +8,9 @@
     <a href="https://twitter.com/BylexStyles" target="_blank">
         <img src="https://img.shields.io/twitter/follow/BylexStyles?color=blue&logo=twitter&style=for-the-badge" alt="twitter-badge">
     </a>
+   <a href="https://www.linkedin.com/in/bairon-chirinos-4943b8215/">
+        <img src="https://raw.githubusercontent.com/BaironDevX/BaironDevX/main/languages-and-tools/LinkedIn.png" alt="LinkedIn" width="30" height="30">
+    </a>
 </div>
 
 <hr>
