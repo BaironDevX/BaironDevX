@@ -18,8 +18,8 @@
 - 💬 Ask me about **HTML, CSS, Java**
 - 📫 How to reach me: **bylexprogrammer@gmail.com**
 - ⚡ Fun fact: **I'm a bit of a geek** 🤓
-- 
 <hr>
 
 <h2> Languages and Tools: </h2>
+
 
