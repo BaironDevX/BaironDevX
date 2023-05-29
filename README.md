@@ -22,4 +22,10 @@
 
 <h2> Languages and Tools: </h2>
 
-
+<div id="languages-and-tools">
+    <img src="https://raw.githubusercontent.com/BaironDevX/BaironDevX/main/languages-and-tools/HTML5.png" alt="HTML 5" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/BaironDevX/BaironDevX/main/languages-and-tools/CSS3.png" alt="CSS3" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/BaironDevX/BaironDevX/main/languages-and-tools/JavaScript.png" alt="JavaScript" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/BaironDevX/BaironDevX/main/languages-and-tools/Git.png" alt="Git" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/BaironDevX/BaironDevX/main/languages-and-tools/MySQL.png" alt="MySQL" width="40" height="40">
+</div>
